@@ -21,7 +21,7 @@ This is a simple blog web application built using **Node.js**, **Express.js**, a
 - Bootstrap
 - Body-parser
 
-##Usage
+## Usage
 On the home page, you can see all the existing blog posts.
 To create a new post, fill out the form at the top of the page and submit it.
 Each post will have an option to edit or delete.
@@ -30,10 +30,10 @@ Confirm deletion through the prompt before a post is removed.
 Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add features, please fork the repository and submit a pull request. Make sure to follow the code style and include tests for new features.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgements
+## Acknowledgements
 Node.js - JavaScript runtime
 Express.js - Web framework for Node.js
 EJS - Templating engine for rendering HTML
